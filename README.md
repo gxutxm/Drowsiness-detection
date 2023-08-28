@@ -7,7 +7,7 @@ This project aims to detect and alert the user when a person's eyes are closed f
 1. **Eye Aspect Ratio (EAR) Calculation:**
 The project calculates the EAR, a reliable measure of eye openness, by analyzing the positions of facial landmarks. This enables the detection of closed or partially closed eyes, a crucial indicator of drowsiness.
     
-    ![Untitled](Drowsiness%20detection%200a18e6f80dd34e55a704e9975049d2d2/Untitled.png)
+    ![](images/EAR.png)
     
 2. **Real-Time Video Processing:**
 The system processes video frames from a webcam feed in real-time, ensuring continuous monitoring of the person's eyes and immediate detection of potential drowsiness.
