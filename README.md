@@ -48,7 +48,9 @@ The project utilizes established open-source libraries like dlib, imutils, and p
 4. Perform opening and closing of eyes to invoke the alert.
 
 ## Result:
-![](https://github.com/gxutxm/Drowsiness-detection/assets/81068888/ffffc5b0-8ebc-4dfa-b5b5-6d6d28916dec)
+![](images/Resultvid.mp4)
+
+    
 
 ## Project Structure:
 
