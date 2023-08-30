@@ -48,7 +48,7 @@ The project utilizes established open-source libraries like dlib, imutils, and p
 4. Perform opening and closing of eyes to invoke the alert.
 
 ## Result:
-![](images/Resultvid.mp4)
+![](images/resultvid.mp4)
 
     
 
